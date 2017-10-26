@@ -3,7 +3,7 @@
 
 ### Agenda
 
-* [Workshop 1 Review](/Workshop-1) 
+* [Workshop 1 Review](/Workshop-1.md) 
 
 * Creating a 3D Project
 * Setting up the Workspace
