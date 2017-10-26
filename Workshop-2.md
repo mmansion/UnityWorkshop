@@ -20,12 +20,13 @@
   + Default Methods, Using Start & Update
   + Variables and Datatypes
   + Public vs Private Variables
-  + Modifying Object Properties
+  + Changing Game Object Properties
 
-* Creating a Game Board & Character
+* Creating a Basic Game
 
   + Create a ground objecct (3D plane)
   + Create a player object (3D sphere)
+  + 
 
 ---
 
