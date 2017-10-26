@@ -11,28 +11,46 @@
 * Basic 3D Game Objects
 * Adding Scripts to Objects
 
-* [~30 MIN] Basics of Unity Scripting
+* Intro to Unity Scripting
 
-  + The C# Programming Language (10,000 ft view)
+  + C# Language (10,000 ft view)
   + Compiled vs Interpreted Languages
-  + Using the Reference Guide & Getting help
-  + Console Logging & Code Comments
-  + Default Methods, Using Start & Update
+  + Editing Code in Unity
+  + Using the API Reference Guide & Getting help
+  + Console Logging & Code Commenting
   + Variables and Datatypes
   + Public vs Private Variables
+  + Default and Custom Methods 
+  + Using the Update Loop
   + Changing Game Object Properties
 
-* Creating a Basic Game
+* Create an Environment & Character
 
-  + Create a ground objecct (3D plane)
-  + Create a player object (3D sphere)
-  + 
+  + Create an Environment
+  + Create a Character
+  + Move the Character (Basic Physics)
+  + Make Camera "Look At" the Character
+  + Create a "Follow Camera"
 
+* Interacting with Objects 
+
+  + Create "collectable" objects
+  + Collect Objects using (Basic Collision Detection)
+  + Adding sound effects
+  + Adding score text
+  
+* Level up
+
+  + Loading a new level
+  + Custom game board challenge
+  
 ---
 
 ## Resources
 
 #### [Download Assets]()
+
+### [Unity Knowledgebase](https://support.unity3d.com/hc/en-us)
 
 ---
 
